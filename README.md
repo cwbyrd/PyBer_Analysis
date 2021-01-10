@@ -10,6 +10,7 @@ When collecting and analyzing the data, we see the following from our chart: bel
 2. As the number of rids and drivers increase, there is downward pressure on average fare per rider and average fair per driver. 
 3. The vast majority of revenue from fares comes from the urban centers, making up twice the suburban total and ~9 times the amount from rural areas. 
 
+https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Tot_Avg_drivers_fares%20by%20city%20type.PNG
 
 ### Deliverable 2
 1. From the chart and graph below, by week, the trends are fairly consistent with respect to urban city types generating the most revenue from fares. 
