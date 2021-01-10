@@ -18,6 +18,7 @@ https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Tot_Avg_drivers_fare
 
 https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Total%20fares%20by%20week%20Chart.PNG
 
+https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Pyber_fare_summary.png
 
 ## Summary/recommendations/Alteratives
 1. Based on the information presented above, assuming that there are limited resources with respect to drivers and vehicles, PyBer could look at maximizing revenue by determining the best combination of resources in each city type, and move toward that. 
