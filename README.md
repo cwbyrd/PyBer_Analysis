@@ -16,6 +16,8 @@ https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Tot_Avg_drivers_fare
 1. From the chart and graph below, by week, the trends are fairly consistent with respect to urban city types generating the most revenue from fares. 
 2. While there is some volatility in suburban and urban city types, total fares tend to be more consistent than in the rural areas, which show mroe fluctuation week over week. 
 
+https://github.com/cwbyrd/PyBer_Analysis/blob/main/analysis/Total%20fares%20by%20week%20Chart.PNG
+
 
 ## Summary/recommendations/Alteratives
 1. Based on the information presented above, assuming that there are limited resources with respect to drivers and vehicles, PyBer could look at maximizing revenue by determining the best combination of resources in each city type, and move toward that. 
